@@ -224,6 +224,27 @@ As a potential club member, I should be able to sign up as a trial member and pr
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* DevOps: The problem
+---------------------
+Helps organizations to improve their agility and significantly reduce time to market for their products.
+
+Le'ts see what is the problem that DevOps helps to solve:
+
+
+* Typical Deployment
+--------------------
+		BUSINESS ----> DEVELOPMENT ----> QA ----> IT OPERATIONS ----> PRODUCTION
+
+
+	* IT OPERATIONS SEE FREQUENT PRODUCT INCREMENTS AS A NIGHTMARE, BECAUSE NOW THE CHANGES THAT WOULD BREAK INFRASTRUCTURE ARE BEING PUSHED MORE FREQUENTLY.
+
+	* THIS IS THE PROBLEM THAT DEVOPS ATTEMPTS TO SOLVE
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
