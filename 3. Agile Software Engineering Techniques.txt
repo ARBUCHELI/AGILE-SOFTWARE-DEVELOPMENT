@@ -155,7 +155,55 @@ Payments,	Personal Information
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Agile estimation
+------------------
+	* AGILE ESTIMATION IS ALL ABOUT REFININIG PRODUCT BACKLOG ITEMS INTO SMALLER IMPLEMENTABLE ITEMS AND THEM ESTIMATING WHAT IT TAKES TO CONVERT THAT BACKLOG ITEM INTO A DONE ITEM.
+	(!!!GAZPROM PROJECT)
 
+	* AGILE ESTIMATES ARE PROVIDED BY THE DEVELOPMENT TEAM MEMBERS, THEY ARE NOT IMPOSED BY THE MANAGERS.
+
+* Absolute Units
+----------------
+This is the type of estimation traditionally used by product managers.
+
+Depends on the level of skills of the developers.
+
+* Relative Units
+----------------
+More easy for agreement.
+
+	. Fibonacci Series
+	------------------
+	0, 1, 2, 3, 5, 8, 13 --> These numbers are used to rank the difficulty and scope of product backlog items.
+
+	. Exponential Scale
+	-------------------
+	0, 1, 2, 4, 8, 16    --> 
+
+	. oo --> Too large to estimate
+
+	. 0 --> Already done or easily completed
+
+	* THE USE OF FIBONACCI SERIES AND EXPONENTIAL SERIES IS ALIGNED WITH THE FACT THAT AS WORK ITEMS GET BIGGER, AND MORE COMPLEX, THE UNCERTAINTY ASSOCIATED WITH THE IMPLEMENTATION
+	INCREASES.
+
+	* XS > S > M > L > XL
+	---------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Planning poker
+----------------
+
+	
+	
+
+
+
+
+
+	
 
 
 
