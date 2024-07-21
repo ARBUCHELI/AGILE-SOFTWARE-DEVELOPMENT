@@ -1,0 +1,132 @@
+# 3. AGILE SOFTWARE ENGINEERING TECHNIQUES
+------------------------------------------
+
+* Extreme Programming (XP)
+--------------------------
+. Weekly Cycle
+
+. Customer 
+
+. Developers
+
+. Implementation
+
+. Quarterly Cycle (Opportunity for the team to reflect on themselves)
+
+. Developers
+
+. Stories 
+
+. Whole Team (The team is cross-functional just like in Scrum)
+
+. Energized Work (XP programmers work in situ with minimum barriers to communication)
+
+. Informative Workspace 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* XP execution
+--------------
+. XP teams do test-first development
+
+. XP teams do incremental design
+
+. XP practices include a quick build process of 10 minutes or less
+
+. XP teams use pair programming
+
+. XP teams use continuous integration
+
+. XP teams use process called slack (XP teams should have a few low priority tasks in their weekly and quarterly work queue)
+
+. Many agile teams combine XP practices with Scrum
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Pair Programming
+------------------
+I - Shaped: Deep Knowledge (!!!!GAZPROM PROJECT) --> VITALIY TOP PERFORMER
+
+T - Shaped: Deep Knowledge, Wider Knowledge (!!!!GAZPROM PROJECT) --> OTHER MEMBERS OF THE TEAM
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Test-driven development (TDD)
+-------------------------------
+1. Write a test that fails.
+
+2. Write enough code to compile.
+
+3. Complete code to meet requirements of test.
+
+. Can expose poorly designed monolithic code
+
+. Testers have no bias toward code and often find defects that developers miss
+
+. Ability to bypass or mock dependencies or functions and only focus on code for specific test
+
+	. Mockito
+	. PowerMock
+	. MOQ
+	. Others
+
+. Code coverage is the percentage of total code being executed by tests
+
+. Achieving 100% code coverage is challenging
+
+. Code coverage goals should be included in team's definition of done (!!!!GAZPROM PROJECT --> THINK ABOUT THE IMPLEMENTATION OF THIS)
+
+. Recommend starting with low percentage and ramp up up to 100% at team's pace
+
+. Automated unit testing should be part of continuous build process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
