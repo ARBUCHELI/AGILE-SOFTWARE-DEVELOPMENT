@@ -111,9 +111,9 @@ Example of conditions of satisfaction
 -------------------------------------
 User should be able to view payments made in the last two years. 
 
-* Conditions of satisfaction --> Define the criteria that must be met for the product owner to accept the story. (!!!GAZPROM PROJECT)
+	* Conditions of satisfaction --> Define the criteria that must be met for the product owner to accept the story. (!!!GAZPROM PROJECT)
 
-* REMEMBER THAT EACH USER'S STORY IS A PROMISE FOR A CONVERSATION BETWEEN BUSINESS STAKEHOLDERS LIKE THE PRODUCT OWNER, AND DEVELOPMENT TEAMS. (!!!GAZPROM PROJECT)
+	* REMEMBER THAT EACH USER'S STORY IS A PROMISE FOR A CONVERSATION BETWEEN BUSINESS STAKEHOLDERS LIKE THE PRODUCT OWNER, AND DEVELOPMENT TEAMS. (!!!GAZPROM PROJECT)
 
 * The three C's of User Stories
 -------------------------------
@@ -125,6 +125,39 @@ User should be able to view payments made in the last two years.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Epics and themes
+------------------
+* An epic is a large user story
+
+* It represents a business workflow or process and is too large to be estimated
+
+Example
+-------
+As a Fitness Club Manager, I should be able to set up a new club member account.
+
+
+* Themes
+--------
+A way of grouping user stories
+
+Themes are attributes of user stories
+
+Example
+-------
+Payments,	Personal Information
+
+
+	* USER STORIES ARE THE STANDARD FOR REQUIREMENT ANALYSIS FOR AGILE TEAMS (!!!GAZPROM PROJECT)
+
+	* IF YOU CAN'T EXPRESS USER STORIES ON AN INDEX CARD, THAT'S PROBABLY AN EPIC (!!!GAZPROM PROJECT)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
