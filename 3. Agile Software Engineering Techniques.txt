@@ -195,6 +195,37 @@ More easy for agreement.
 
 * Planning poker
 ----------------
+Technique for relative estimation.
+
+(!!!GAZPROM PROJECT - VERY IMPORTANT)
+
+Example
+-------
+As a potential club member, I should be able to sign up as a trial member and print a temporary badge so I can try the fitness center facilities.
+
+	* THE TEAM ASK CLARIFYING QUESTIONS ABOUT THE PRODUCT BACKLOG ITEM TO THE PRODUCT OWNER.
+
+1) Agile estimation is based on consensus
+
+2) Agile team members estimate work independently and are not influenced by others
+
+3) Agile estimation is a conversation starter that helps to clarify requirements
+
+. Don't spend time trying to reach the perfect estimate.
+
+. Use empiricism
+
+. Time-box the estimation session
+
+. Team should perform an exercise to group work items by size
+
+. Do not estimate items with a large relative size (usually eight or higher)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 	
 	
