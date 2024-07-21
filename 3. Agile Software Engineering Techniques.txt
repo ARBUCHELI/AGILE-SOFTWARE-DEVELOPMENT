@@ -84,6 +84,62 @@ T - Shaped: Deep Knowledge, Wider Knowledge (!!!!GAZPROM PROJECT) --> OTHER MEMB
 . Automated unit testing should be part of continuous build process
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* User stories
+--------------
+
+Example
+-------
+As a fitness club member, 
+I should be able to view my payment story 
+so I know how I am being billed.
+
+User Categories
+---------------
+Example
+-------
+(Fitness club app)
+
+. Club member
+. Potential club member
+. Potential club employee
+. Fitness instructor
+. Fitness club manager
+
+Example of conditions of satisfaction
+-------------------------------------
+User should be able to view payments made in the last two years. 
+
+* Conditions of satisfaction --> Define the criteria that must be met for the product owner to accept the story. (!!!GAZPROM PROJECT)
+
+* REMEMBER THAT EACH USER'S STORY IS A PROMISE FOR A CONVERSATION BETWEEN BUSINESS STAKEHOLDERS LIKE THE PRODUCT OWNER, AND DEVELOPMENT TEAMS. (!!!GAZPROM PROJECT)
+
+* The three C's of User Stories
+-------------------------------
+. Card
+
+. Collaboration
+
+. Confirmation
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
