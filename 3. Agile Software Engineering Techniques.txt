@@ -243,6 +243,127 @@ Le'ts see what is the problem that DevOps helps to solve:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* DevOps: The solution 
+----------------------
+. Culture of close cooperation between developers and QA teams: (Dev) and IT operations teams (Ops)
+
+. Requires a change in organizational mindset
+
+. Supported by processes and tools
+
+. Reduces lead time from feature requirements to deployment for faster user feedback
+
+
+* Continuous Integration (CI)
+-----------------------------
+Practice of frequently commiting changes to the source code.
+
+
+* Continuous Delivery (CD)
+--------------------------
+Capability to keep product stable after every change so that it is always shippable
+
+
+* Continuous Deployment
+-----------------------
+Automatically deploying product increment to productio or production like environment.
+
+
+. Agile and DevOps complement each other
+
+. Requires a cultural change by the organization to implement successfully
+
+
+	* THE ORGANIZATION MUST TO TRANSITION AWAY FROM MANUAL STEPS, SILOS, AND HADOFFS AND INTRODUCE CLOSER COOPERATION BETWEEN DEVELOPERS AND IT TEAMS WITH IMPROVED AUTOMATION 
+	AND COLLECTIVE RESPONSIBILITY OF THE DEPLOYMENT PIPELINE (!!!!GAZPROM PROJECT)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Agile reporting
+-----------------
+. Burndown charts
+
+. Burnup charts
+
+. Cumulative flow diagrams
+
+
+* Tools
+-------
+Visual Studio Team Services
+
+
+	* THE MOST IMPORTANT IS THAT ALL THE TEAM MEMBERS HAVE TRANSPARENCY ON THE STATE OF THE PROJECT.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
