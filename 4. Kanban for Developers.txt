@@ -55,6 +55,29 @@ Ban = Card
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Limiting work in progress (WIP)  (!!!! GAZPROM PROJECT ---> THIS IS VERY IMPORTANT FOR OUR PROJECT !!!!)
+---------------------------------
+
+WHEN WE WORK IN MORE THAN ONE ITEM WE ARE STILL ONLY WORKING ON ONE ITEM AT A GIVEN POINT IN TIME. WE SWITCH BETWEEN ITEMS, AND ITS SWITCH CAUSES A LOSS IN PRODUCTIVITY, BECAUSE IT TAKES
+TIME TO BE FULLY PRODUCTIVE ON THE SECOND TASK.
+
+	* HUMANS ARE NOT PRODUCTIVE AT TASK SWITCHING LIKE COMPUTERS.
+
+	* TOO MANY WORK ITEMS CAUSES DISTRACTIONS AND LOWERS PRODUCTIVITY.
+
+* LIMITING WIP
+--------------
+. Firstly we need to have something to work on, when the only item in a column (For example the “In progress” column, is blocked.
+
+. Not all steps in a process are equal in duration.  Steps that are lower in duration may delay items that comes from previous faster steps.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
