@@ -1,0 +1,103 @@
+# 4. KANBAN FOR DEVELOPERS
+--------------------------
+
+* Lean History
+--------------
+Origin of Kanban ---> Lean Manufacturing Principles ---> (Toyota Production System)
+
+INVENTORY ---> Aligning ---> Production Rate			Consumption Rate
+
+* Little's Law
+--------------
+
+	L = L'W (L' = lambda)
+
+	Average Number of Customers (L) = Arrival Rate (L') x Average Time Spent (W)
+
+
+* Example:
+----------
+	
+	L(4) = Lambda(8) * W(0.5) 
+
+
+* Little's Law in Software Development (!!!! GAZPROM PROJECT ---> THIS IS VERY IMPORTANT FOR OUR PROJECT !!!!)
+--------------------------------------
+
+	L = L'W
+	
+	Work in Progress (L) = Completion Rate(L') x Cycle Time (W)
+
+
+* Cycle Time
+------------
+Cycle time is the total time of a work item:
+
+	Analysis	Design		Implementation		Deployment 
+
+
+The idea is to minimize cycle time, because we want to produce valuable software faster.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
