@@ -24,6 +24,64 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Scaling frameworks
+--------------------
+
+* Nexus
+-------
+. Developed by Ken Schwarber, coinventor of Scrum
+
+. Essentially Scrum with one additional artifact, a few additional events, and one additional team role
+
+. Principles of Scrum also apply to Nexus
+
+. Execution is like running multiple Scrum teams in parallel that produce one integrated product increment at end of sprint.
+
+
+* Scrum@Scale
+-------------
+. Developed by Jeff Sutherland, coinventor of Scrum
+
+. Like Nexus, is an implementation of Scrum by several teams in parallel
+
+. Scrum@Scale can be scaled infinitely
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
