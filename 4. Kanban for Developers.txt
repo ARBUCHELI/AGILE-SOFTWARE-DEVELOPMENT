@@ -74,6 +74,61 @@ TIME TO BE FULLY PRODUCTIVE ON THE SECOND TASK.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* How to set WIP limits
+-----------------------
+
+* Set WIP Limits
+----------------
+. Kanban teams can set WIP limits to the number of the team members plus a buffer. This means that team as a unit, cannot have more work items than the WIP limit.
+
+The buffer adds a few extra tasks that allows team members to fall back to if other tasks become blocked.
+
+* Example:
+----------
+WIP = Team members (6) + 50% Buffer (3) = Team members + Buffer (9)
+
+
+
+* calculate Step WIP
+--------------------
+WIP limits can be set up at each of the process.
+
+* Step 1: Find the slowest step (average duration per work item per person) ---> The slowest step is the step that takes the maximum amout of time per person.
+
+* Step 2: WIP of that step = Number of people working on that step, plus a buffer.
+
+* Step 3: Adjust WIP of other faster steps proportionally.
+
+* Step 4: Continue to adjust based on experience.
+
+
+* Doing and Done
+----------------
+. Completion criteria defined for each step.
+
+. Work item must meet completion criteria before moving from Doing column to Done Column.
+
+. Process enforces stricter quality criteria.
+
+
+* Kanban Daily Standup
+----------------------
+. Focused on identifying and addressing bottlenecks.
+
+. Efficiency is the priority.
+
+. All status updates visible on Kanban board.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 
