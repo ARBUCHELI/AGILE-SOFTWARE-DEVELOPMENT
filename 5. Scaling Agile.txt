@@ -49,6 +49,46 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Scaling frameworks, continued
+-------------------------------
+
+* LESS
+------
+. Developed by Craig Larman and Bas Vodde
+
+. Does not violate any rules of Scrum
+
+. More prescriptive than other scaling frameworks
+
+. Framework designed to work with two to eight teams and one product owner, with one Scrum master per one to three teams
+
+. Introduces the overall retrospective, and event that occurs after the sprint retrospective
+
+. Extension of framework for more than eight teams is LeSS Huge
+
+. Less Huge introduces area product owner as new role
+
+
+* Scaled Agile Framework (SAFe)
+-------------------------------
+. Undergone several versions since initial release in 2011
+
+. Uses Scrum constructs, but also uses a combination of other agile frameworks
+
+. Works at multiple levels; the base levels required for SAFe implementation are called program and team
+
+. Combination of levels form the configurations Essential SAFe, Full SAFe, Large Solution SAFe, and Portfolio SAFe
+
+. Smallest team unit is similar to a typical agile team
+
+. Multiple teams work in parallel at the team level
+
+. Work from all agile teams combined to produce product increment at the program level
+
+
+
+
+
 
 
 
