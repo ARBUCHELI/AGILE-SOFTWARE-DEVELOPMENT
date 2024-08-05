@@ -122,6 +122,32 @@ WIP limits can be set up at each of the process.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Kanban vs. scrum
+------------------
+. Scrum is a framework, Kanban is a process management tool
+
+. Kanban is more lightweight than Scrum
+
+. Kanban can be combined with Scrum (Srumban) but each can also be used independently
+
+
+* Kanban
+--------
+. Developer-friendly and simple process
+
+. No mandatory time-boxed events
+
+. One product backlog
+
+. Daily stand-up focused only on bottlenecks
+
+. No defined roles
+
+. Manage work in progress (WIP) and continuosly improve
+
+Tool ---> LeanKit
+
+
 
 
 

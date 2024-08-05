@@ -1,0 +1,31 @@
+# 5. SCALING AGILE
+------------------
+
+* Scaling Agile
+---------------
+
+* Why Scale Agile?
+------------------
+. One product with too many features to be developed in a specific timeframe
+
+. One team cannot feasibly produce large amounts of features
+
+. Business case to ship those features to market in a specific timeframe compels organization to scale
+
+
+* Rules of Scaling
+------------------
+. Don't scale if you don't have to.
+
+. Scale slowly: Continuously identify and address challenges and minimize dependencies.
+
+. Develop architectural standards and guidelines before scaling.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
